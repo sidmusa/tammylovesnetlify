@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Retroful Hugo</title>
-    <link>https://sidmusa.github.io/tammy/</link>
+    <link>https://typeforever.netlify.com/</link>
     <description>Recent content on Retroful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>your email (your name)</managingEditor>
     <webMaster>your email (your name)</webMaster>
     <lastBuildDate>Sun, 17 Sep 2017 00:49:02 +0530</lastBuildDate>
-    <atom:link href="https://sidmusa.github.io/tammy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://typeforever.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello</title>
-      <link>https://sidmusa.github.io/tammy/post/hello/</link>
+      <link>https://typeforever.netlify.com/post/hello/</link>
       <pubDate>Sun, 17 Sep 2017 00:49:02 +0530</pubDate>
       <author>your email (your name)</author>
-      <guid>https://sidmusa.github.io/tammy/post/hello/</guid>
+      <guid>https://typeforever.netlify.com/post/hello/</guid>
       <description>&lt;p&gt;Hello, this is my first post.&lt;/p&gt;
 </description>
     </item>
